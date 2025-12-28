@@ -1,5 +1,6 @@
 # Google-AI-Agent-Self-learning-notes
-Google AI Agent课程25天学习资源与笔记
+零技术知识&背景！
+文科生Google AI Agent课程25天学习资源与笔记
 
 学习目标：
 
